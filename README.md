@@ -1,6 +1,3 @@
-# Promo_Bank_React
-Promo page of HooBank on React
-
 # Проект "Страница для вымышленного банка HooBank с использованием React"
 ## Описание
 
